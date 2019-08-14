@@ -1,4 +1,4 @@
-## 一个学习 nodejs + express 的demo
+## 学习 nodejs + express 的demo
 
 ### 启动
 
